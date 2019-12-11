@@ -1,0 +1,88 @@
+@import url(https://fonts.googleapis.com/css?family=Bungee);
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+body { 
+  background-color: #F19C79
+    ;
+}
+h3{
+  text-align: center;
+  color: black;
+  font-size: 300%;
+  font-family: 'Sigmar One';
+}
+h1{
+  color: white;
+}
+img {
+  width: 250px;
+}
+
+.special {
+  color: white;
+  text-align: left;
+  font-family: 'Bungee';
+  font-size: 150%;
+  margin-left: 30px;
+  margin-top: 40px
+}
+.center{
+  display: block;
+  margin-left: 280px;
+  margin-top: -445px;
+  width: 20%;
+}
+.pasta{
+  color: white;
+  text-align: middle;
+ font-family: 'Bungee';
+  font-size: 150%;
+  margin-left: 430px;
+  margin-top: 60px
+}
+.avocado{
+  display: block;
+  margin-left: 680px;
+  margin-top: -440px;
+  width: 23%;  
+}
+.yummy{
+  color: white;
+  text-align: middle;
+  font-family: 'Bungee';
+  font-size: 150%;
+  margin-left: 820px;
+  margin-top: 57px  
+}
+.yumsushi{
+  display: block;
+  margin-left: 1140px;
+  margin-top: -430px;
+  width: 21%;  
+}
+.sushi{
+  color: white;
+  text-align: middle;
+  font-family: 'Bungee';
+  font-size: 150%;
+  margin-left: 1307px;
+  margin-top: 70px  
+}
+.yumegg{
+  display: block;
+  margin-left: 1570px;
+  margin-top: -380px;
+  width: 15.5%;  
+}
+.eggrolls{
+  color: white;
+  text-align: middle;
+  font-family: 'Bungee';
+  font-size: 150%;
+  margin-left: 1650px;
+  margin-top: 40px 
+}
+.question{
+  color: white;
+  font-family: 'Bungee';
+  margin-top: 400px
+}
